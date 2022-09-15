@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! 👋
 
 <!--
 **AgustinaGrangetto/AgustinaGrangetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- I’m Agustina from Argentina. I have a degree in Economics and I’m a Data Scientist in development. 
+- I have work experience in risk management, credit scores, automatic decision, and prediction engines. 
+- Currently learning Python and R.
+
+
+Contact me in [LinkedIn](https://www.linkedin.com/in/agustina-grangetto/)
